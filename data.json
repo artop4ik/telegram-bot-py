@@ -1,0 +1,25 @@
+{
+    "films": [
+        {
+            "name": "Harry Potter and the Philosopher's Stone",
+            "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+            "rating": 7.1,
+            "genre": "Fantasy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoSN7Da2K0TRzmj1Kn_PU-4lRhl0RiTcnpA&s"
+        },
+        {
+            "name": "Garfield: The Movie",
+            "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
+            "rating": 7,
+            "genre": "Fantasy",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBh5IYxU7Iz5LOrHz7yElQ_d39fclSTDsXyH2nguM1khto_FJCUk_vGt_ugB5BQbzfCnxkZAOJat8ir9Bgv7RmnqMjmw5OtHEjsgGZFshg2ALXsOtOojYb&s&ec=121644734"
+        },
+        {
+            "name": "aa",
+            "description": "aa",
+            "rating": 6.0,
+            "genre": "aa",
+            "poster": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=500"
+        }
+    ]
+}

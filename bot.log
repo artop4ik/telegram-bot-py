@@ -1,0 +1,108 @@
+2026-04-26 15:15:33,266 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:15:33,317 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:15:40,680 - INFO - aiogram.event - Update id=753202208 is handled. Duration 209 ms by bot id=8653095280
+2026-04-26 15:15:45,114 - INFO - aiogram.event - Update id=753202209 is handled. Duration 111 ms by bot id=8653095280
+2026-04-26 15:15:51,069 - INFO - aiogram.event - Update id=753202210 is handled. Duration 68 ms by bot id=8653095280
+2026-04-26 15:15:59,951 - INFO - aiogram.event - Update id=753202211 is handled. Duration 63 ms by bot id=8653095280
+2026-04-26 15:16:03,516 - INFO - aiogram.event - Update id=753202212 is handled. Duration 91 ms by bot id=8653095280
+2026-04-26 15:16:08,293 - INFO - aiogram.event - Update id=753202213 is handled. Duration 68 ms by bot id=8653095280
+2026-04-26 15:16:12,628 - INFO - aiogram.event - Update id=753202214 is handled. Duration 187 ms by bot id=8653095280
+2026-04-26 15:18:44,073 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:18:44,114 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:18:49,568 - INFO - aiogram.event - Update id=753202215 is handled. Duration 170 ms by bot id=8653095280
+2026-04-26 15:18:54,162 - INFO - aiogram.event - Update id=753202216 is handled. Duration 60 ms by bot id=8653095280
+2026-04-26 15:18:57,367 - INFO - aiogram.event - Update id=753202217 is handled. Duration 66 ms by bot id=8653095280
+2026-04-26 15:19:01,091 - INFO - aiogram.event - Update id=753202218 is handled. Duration 60 ms by bot id=8653095280
+2026-04-26 15:19:02,761 - INFO - aiogram.event - Update id=753202219 is handled. Duration 71 ms by bot id=8653095280
+2026-04-26 15:27:16,768 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:27:16,809 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:27:23,490 - INFO - aiogram.event - Update id=753202220 is handled. Duration 159 ms by bot id=8653095280
+2026-04-26 15:27:25,164 - INFO - aiogram.event - Update id=753202221 is handled. Duration 69 ms by bot id=8653095280
+2026-04-26 15:27:29,222 - INFO - aiogram.event - Update id=753202222 is handled. Duration 81 ms by bot id=8653095280
+2026-04-26 15:27:30,256 - INFO - aiogram.event - Update id=753202223 is handled. Duration 66 ms by bot id=8653095280
+2026-04-26 15:34:48,652 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:34:48,692 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:34:51,534 - INFO - aiogram.event - Update id=753202224 is handled. Duration 169 ms by bot id=8653095280
+2026-04-26 15:34:53,224 - INFO - aiogram.event - Update id=753202225 is handled. Duration 66 ms by bot id=8653095280
+2026-04-26 15:35:45,597 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:35:45,638 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:35:51,126 - INFO - aiogram.event - Update id=753202226 is handled. Duration 225 ms by bot id=8653095280
+2026-04-26 15:35:52,889 - INFO - aiogram.event - Update id=753202227 is handled. Duration 64 ms by bot id=8653095280
+2026-04-26 15:36:27,742 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:36:27,792 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:36:30,307 - INFO - aiogram.event - Update id=753202228 is handled. Duration 162 ms by bot id=8653095280
+2026-04-26 15:36:32,096 - INFO - aiogram.event - Update id=753202229 is handled. Duration 59 ms by bot id=8653095280
+2026-04-26 15:38:42,109 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:38:42,154 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:38:44,416 - INFO - aiogram.event - Update id=753202230 is handled. Duration 275 ms by bot id=8653095280
+2026-04-26 15:38:45,990 - INFO - aiogram.event - Update id=753202231 is handled. Duration 64 ms by bot id=8653095280
+2026-04-26 15:40:19,330 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:40:19,369 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:40:20,986 - INFO - aiogram.event - Update id=753202232 is handled. Duration 177 ms by bot id=8653095280
+2026-04-26 15:40:22,597 - INFO - aiogram.event - Update id=753202233 is handled. Duration 65 ms by bot id=8653095280
+2026-04-26 15:45:02,627 - INFO - aiogram.dispatcher - Start polling
+2026-04-26 15:45:02,767 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-26 15:45:11,692 - INFO - aiogram.event - Update id=753202234 is handled. Duration 231 ms by bot id=8653095280
+2026-04-26 15:45:14,240 - INFO - aiogram.event - Update id=753202235 is handled. Duration 63 ms by bot id=8653095280
+2026-04-27 18:39:21,901 - INFO - aiogram.dispatcher - Start polling
+2026-04-27 18:39:21,946 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-27 18:39:38,917 - INFO - aiogram.dispatcher - Start polling
+2026-04-27 18:39:38,957 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-27 18:39:39,171 - INFO - aiogram.event - Update id=753202236 is handled. Duration 169 ms by bot id=8653095280
+2026-04-27 18:39:50,183 - INFO - aiogram.event - Update id=753202237 is handled. Duration 68 ms by bot id=8653095280
+2026-04-27 18:39:53,369 - INFO - aiogram.event - Update id=753202238 is handled. Duration 59 ms by bot id=8653095280
+2026-04-27 18:39:55,436 - INFO - aiogram.event - Update id=753202239 is handled. Duration 75 ms by bot id=8653095280
+2026-04-27 18:40:39,830 - INFO - aiogram.event - Update id=753202240 is handled. Duration 279 ms by bot id=8653095280
+2026-04-27 18:40:41,642 - ERROR - root - Œ¯Ë·Í‡: HTTP Client says - ClientConnectionError: Failed to send bytes into the underlying connection Connection<ConnectionKey(host='api.telegram.org', port=443, is_ssl=True, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=None)>: ClientResponseError(RequestInfo(url=URL('https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg'), method='GET', headers=<CIMultiDictProxy('Host': 'upload.wikimedia.org', 'User-Agent': 'Python/3.13 aiohttp/3.13.4 aiogram/3.27.0', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg')), (), status=403, message='Forbidden', headers=<CIMultiDictProxy('Content-Length': '126', 'Content-Type': 'text/plain', 'x-request-id': '11646f54-4b0a-47e3-a02a-3ba5d0023b1f', 'Server': 'HAProxy', 'x-cache': 'cp3077 int', 'x-cache-status': 'int-tls', 'x-analytics': '')>)
+2026-04-27 18:40:41,643 - INFO - aiogram.event - Update id=753202241 is handled. Duration 118 ms by bot id=8653095280
+2026-04-27 18:40:43,579 - INFO - aiogram.event - Update id=753202242 is handled. Duration 270 ms by bot id=8653095280
+2026-04-27 18:40:54,962 - INFO - aiogram.event - Update id=753202243 is handled. Duration 66 ms by bot id=8653095280
+2026-04-27 18:41:00,715 - INFO - aiogram.event - Update id=753202244 is handled. Duration 90 ms by bot id=8653095280
+2026-04-27 18:41:08,987 - INFO - aiogram.event - Update id=753202245 is handled. Duration 80 ms by bot id=8653095280
+2026-04-27 18:41:15,060 - INFO - aiogram.event - Update id=753202246 is handled. Duration 64 ms by bot id=8653095280
+2026-04-27 18:41:18,493 - INFO - aiogram.event - Update id=753202247 is handled. Duration 143 ms by bot id=8653095280
+2026-04-27 18:41:29,059 - INFO - aiogram.event - Update id=753202248 is handled. Duration 61 ms by bot id=8653095280
+2026-04-27 18:41:35,385 - INFO - aiogram.event - Update id=753202249 is handled. Duration 58 ms by bot id=8653095280
+2026-04-27 18:41:36,303 - INFO - aiogram.event - Update id=753202250 is handled. Duration 101 ms by bot id=8653095280
+2026-04-27 18:41:39,159 - INFO - aiogram.event - Update id=753202251 is handled. Duration 75 ms by bot id=8653095280
+2026-04-27 18:41:40,630 - INFO - aiogram.event - Update id=753202252 is handled. Duration 63 ms by bot id=8653095280
+2026-04-27 18:41:43,590 - INFO - aiogram.event - Update id=753202253 is handled. Duration 204 ms by bot id=8653095280
+2026-04-27 18:41:46,610 - INFO - aiogram.event - Update id=753202254 is handled. Duration 162 ms by bot id=8653095280
+2026-04-27 18:41:55,951 - INFO - aiogram.event - Update id=753202255 is handled. Duration 69 ms by bot id=8653095280
+2026-04-27 18:41:58,268 - INFO - aiogram.event - Update id=753202256 is handled. Duration 66 ms by bot id=8653095280
+2026-04-27 18:41:59,550 - INFO - aiogram.event - Update id=753202257 is handled. Duration 213 ms by bot id=8653095280
+2026-04-28 19:41:58,253 - INFO - aiogram.dispatcher - Start polling
+2026-04-28 19:41:58,294 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-28 19:41:58,492 - INFO - aiogram.dispatcher - Polling stopped
+2026-04-28 19:41:58,493 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-28 19:41:58,493 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8653095280)
+2026-04-28 19:41:58,751 - INFO - aiogram.dispatcher - Polling stopped for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-28 19:42:08,003 - INFO - aiogram.dispatcher - Start polling
+2026-04-28 19:42:08,048 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-28 19:42:29,231 - INFO - aiogram.event - Update id=753202258 is handled. Duration 167 ms by bot id=8653095280
+2026-04-28 19:42:30,639 - INFO - aiogram.event - Update id=753202259 is handled. Duration 325 ms by bot id=8653095280
+2026-04-28 19:42:32,785 - ERROR - root - Œ¯Ë·Í‡: HTTP Client says - ClientConnectionError: Failed to send bytes into the underlying connection Connection<ConnectionKey(host='api.telegram.org', port=443, is_ssl=True, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=None)>: NonHttpUrlClientError(URL('data:image/webp;base64,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'))
+2026-04-28 19:42:32,786 - INFO - aiogram.event - Update id=753202260 is handled. Duration 3 ms by bot id=8653095280
+2026-04-28 19:42:35,845 - INFO - aiogram.event - Update id=753202261 is handled. Duration 472 ms by bot id=8653095280
+2026-04-28 19:42:36,141 - INFO - aiogram.event - Update id=753202262 is handled. Duration 169 ms by bot id=8653095280
+2026-04-28 19:45:15,802 - INFO - aiogram.dispatcher - Start polling
+2026-04-28 19:45:15,847 - INFO - aiogram.dispatcher - Run polling for bot @Python_project5_bot id=8653095280 - 'Python_project_bot'
+2026-04-28 19:45:24,645 - INFO - aiogram.event - Update id=753202263 is handled. Duration 168 ms by bot id=8653095280
+2026-04-28 19:45:26,111 - INFO - aiogram.event - Update id=753202264 is handled. Duration 188 ms by bot id=8653095280
+2026-04-28 19:45:27,293 - INFO - aiogram.event - Update id=753202265 is handled. Duration 158 ms by bot id=8653095280
+2026-04-28 19:45:43,744 - INFO - aiogram.event - Update id=753202266 is handled. Duration 63 ms by bot id=8653095280
+2026-04-28 19:45:57,994 - INFO - aiogram.event - Update id=753202267 is handled. Duration 71 ms by bot id=8653095280
+2026-04-28 19:46:03,547 - INFO - aiogram.event - Update id=753202268 is handled. Duration 81 ms by bot id=8653095280
+2026-04-28 19:46:15,097 - INFO - aiogram.event - Update id=753202269 is handled. Duration 67 ms by bot id=8653095280
+2026-04-28 19:46:16,892 - INFO - aiogram.event - Update id=753202270 is handled. Duration 138 ms by bot id=8653095280
+2026-04-28 19:46:21,765 - INFO - aiogram.event - Update id=753202271 is handled. Duration 69 ms by bot id=8653095280
+2026-04-28 19:46:25,079 - INFO - aiogram.event - Update id=753202272 is handled. Duration 154 ms by bot id=8653095280
+2026-04-28 19:46:47,453 - INFO - aiogram.event - Update id=753202273 is handled. Duration 70 ms by bot id=8653095280
+2026-04-28 19:46:49,916 - INFO - aiogram.event - Update id=753202274 is handled. Duration 60 ms by bot id=8653095280
+2026-04-28 19:47:10,514 - INFO - aiogram.event - Update id=753202275 is handled. Duration 169 ms by bot id=8653095280
+2026-04-28 19:47:13,567 - INFO - aiogram.event - Update id=753202276 is handled. Duration 73 ms by bot id=8653095280
+2026-04-28 19:47:17,472 - INFO - aiogram.event - Update id=753202277 is handled. Duration 73 ms by bot id=8653095280
+2026-04-28 19:47:21,655 - INFO - aiogram.event - Update id=753202278 is handled. Duration 62 ms by bot id=8653095280
+2026-04-28 19:47:38,737 - INFO - aiogram.event - Update id=753202279 is handled. Duration 62 ms by bot id=8653095280
+2026-04-28 19:47:41,797 - INFO - aiogram.event - Update id=753202280 is handled. Duration 67 ms by bot id=8653095280
+2026-04-28 19:47:44,245 - INFO - aiogram.event - Update id=753202281 is handled. Duration 68 ms by bot id=8653095280
